@@ -4,5 +4,11 @@
 # 30 day Projects
 </div>
 
-### In this challenge, the goal is to develop 30 projects Machine Learning in 30 days.
+## About Program 💻
+ In this challenge, the goal is to develop 30 projects Machine Learning in 30 days.
 
+## 📌 Table of Content
+
+| Day 📆 | Project | Link 🔗 |
+|--------|----------|-------|
+|01|Stock Prediction|[Day-01](link)
