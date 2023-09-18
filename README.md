@@ -1,14 +1,14 @@
 <div align="center">
 <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
 
-# 30 day Projects
+# 100 days of code
 </div>
 
 ## About Program 💻
- In this challenge, the goal is to develop 30 projects Machine Learning in 30 days.
+ In this challenge, the goal is to develop habit coding in Machine Learning and stuff in 100 days.
 
 ## 📌 Table of Content
 
 | Day 📆 | Project | Link 🔗 |
 |--------|----------|-------|
-|01|Stock Prediction|[Day-01](link)
+|01|
