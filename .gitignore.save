@@ -1,0 +1,28 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python cache and virtual environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large files
+day-01-cat-species/Felidae.h5
+day-01-cat-species/wine-reviews.zip
+
+# Ignore other data or model files
+*.h5
+*.zip
+*.tar
+*.tar.gz
+*.ckpt
+*.pth
+*.pt
