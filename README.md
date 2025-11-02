@@ -16,4 +16,5 @@ In this challenge, the goal is to develop habit coding in Machine Learning and s
 | Day 03 | YOLO Object Detection | [Link](./day-03/) |
 | Day 04 | FastAPI ML Model Deployment | [Link](./day-04-simple-fast-api/) |
 | Day 05 | Face Detection System | [Link](./day-05-face-detection/) |
-| Day 06 | OpenAI Chatbot | [Link](./open-ai-chatbot/) |
+| Day 06 | Transfer Learning with CIFAR-10 | [Link](./day-06-transfer-learning/) |
+| Day 07 | OpenAI Chatbot | [Link](./open-ai-chatbot/) |
