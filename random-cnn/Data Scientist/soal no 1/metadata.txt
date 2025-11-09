@@ -1,0 +1,15 @@
+Keterangan data
+
+# Country Index
+## population : "jumlah penduduk di suatu negara"
+## gdp per capita : "PDB per kapita adalah rata-rata pendapatan per orang di suatu negara, umumnya digunakan sebagai indikator tingkat kesejahteraan dan pembangunan suatu negara"
+## human development index : "HDI adalah indikator yang digunakan untuk mengukur tingkat kesejahteraan dan pembangunan manusia di suatu negara, berdasarkan faktor (1) angka harapan hidup saat lahir, (2) rata-rata lama sekolah dan harapan lama sekolah, (3) tingkat paritas daya beli"
+
+
+# Covid 19 data
+## iso-code : "Kode negara dalam standar iso 3 digit"
+## location : "nama negara"
+## date : "waktu data dilaporkan"
+## total case : "jumlah kasus covid yang dilaporkan"
+## total death : "jumlah kematian akibat covid yang dilaporkan"
+## stringency index : "index yang menunjukkan seberapa ketat pemerintah suatu negara menanggapi pandemi covsi 19. Index ini dibuat oleh OxCGRT dari universitas Oxford.

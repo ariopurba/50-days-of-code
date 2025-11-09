@@ -1,0 +1,26 @@
+Keterangan data
+
+# Churn Status
+## Customer_ID : Pengenal unik untuk setiap pelanggan.
+## Target_Churn : Menunjukkan apakah pelanggan berhenti menggunakan layanan (Benar atau Salah).
+
+
+# Transaction Data
+## Customer_ID : Pengenal unik untuk setiap pelanggan.
+## Total_Spend : Jumlah total yang dibelanjakan pelanggan dalam setahun terakhir.
+## Years_as_Customer : Jumlah tahun pelanggan telah menjadi pelanggan toko.
+## Num_of_Purchases : Jumlah pembelian yang dilakukan pelanggan dalam setahun terakhir.
+## Average_Transaction_Amount : Rata-rata jumlah yang dikeluarkan per transaksi.
+## Num_of_Returns : Jumlah barang yang dikembalikan pelanggan dalam setahun terakhir.
+## Num_of_Support_Contacts : Jumlah kali pelanggan menghubungi dukungan dalam setahun terakhir.
+## Satisfaction_Score : Skor dari 1 hingga 5 yang menunjukkan kepuasan pelanggan terhadap toko.
+## Last_Purchase_Days_Ago : Jumlah hari sejak pembelian terakhir pelanggan.
+## Email_Opt_In : Apakah pelanggan memilih untuk menerima email pemasaran.
+## Promotion_Response : Respon pelanggan terhadap kampanye promosi terakhir (Respon, Diabaikan, Berhenti Berlangganan).
+
+
+# Customer data
+## Customer_ID : Pengenal unik untuk setiap pelanggan.
+## Age : Usia pelanggan.
+## Gender : Jenis kelamin pelanggan (Pria, Wanita, Lainnya).
+## Annual_Income : Penghasilan tahunan pelanggan dalam ribuan dolar.
