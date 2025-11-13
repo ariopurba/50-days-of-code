@@ -18,3 +18,5 @@ In this challenge, the goal is to develop habit coding in Machine Learning and s
 | Day 05 | Face Detection System | [Link](./day-05-face-detection/) |
 | Day 06 | Transfer Learning with CIFAR-10 | [Link](./day-06-transfer-learning/) |
 | Day 07 | OpenAI Chatbot | [Link](./open-ai-chatbot/) |
+| Day 09 | Belajar Three JS |  |
+
